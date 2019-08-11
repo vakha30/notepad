@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Components\\": "Components"
+    }
+  },
+  "require": {
+    "delight-im/auth": "^8.1",
+    "ext-pdo": "*"
+  }
+}
