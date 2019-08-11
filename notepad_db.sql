@@ -82,7 +82,7 @@ CREATE TABLE `users_confirmations` (
 --
 
 INSERT INTO `users_confirmations` (`id`, `user_id`, `email`, `selector`, `token`, `expires`) VALUES
-(13, 13, 'gvardeez95@gmail.com', 'r17EfmvV6TNkRSTy', '$2y$10$QcblGEsO32DqbPAXk4m1m.K9j47XeqRq47fcmxYFN0k1XcNLGHgbK', 1565589400);
+(13, 13, 'gvard@gmail.com', 'r17Efm', '$2y$10$QcblGEsO32DqbPAXk4m1m.K9j47XeqRq47fcmxYFN0k1XcNLGHgbK', 1565589400);
 
 -- --------------------------------------------------------
 
